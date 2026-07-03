@@ -1,0 +1,72 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Test Results
+TestResults/
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Logs
+*.log
+logs/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Publish output
+publish/
+
+# Coverage
+coverage/
+coverage-report/
+
+# dotCover
+*.dotCover
+
+# OpenCover
+OpenCover/
+
+# xUnit
+*.trx
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains
+_ReSharper*/
+*.DotSettings.user
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+docker-compose.override.yml

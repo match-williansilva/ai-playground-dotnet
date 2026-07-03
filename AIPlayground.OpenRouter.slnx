@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AIPlayground.OpenRouter.Api/AIPlayground.OpenRouter.Api.csproj" Id="838c3786-c2a6-4bb7-8a70-65b6340cd9d0" />
+    <Project Path="src/AIPlayground.OpenRouter.Application/AIPlayground.OpenRouter.Application.csproj" Id="f0405f46-22f1-4253-8564-5affd270893e" />
+    <Project Path="src/AIPlayground.OpenRouter.Domain/AIPlayground.OpenRouter.Domain.csproj" Id="a01601ff-4d1c-4103-a8a4-18e14edf8756" />
+    <Project Path="src/AIPlayground.OpenRouter.Infrastructure/AIPlayground.OpenRouter.Infrastructure.csproj" Id="98544203-953a-4ebf-a875-0a7c58b5c48a" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AIPlayground.OpenRouter.Tests/AIPlayground.OpenRouter.Tests.csproj" Id="531c5130-1762-411b-a739-7f19f8689c9e" />
+  </Folder>
+</Solution>
